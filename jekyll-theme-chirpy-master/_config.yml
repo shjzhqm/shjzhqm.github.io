@@ -27,9 +27,6 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: shjzhqm             # change to your github username
 
-twitter:
-  username: none            # change to your twitter username
-
 social:
   name: shjzhqm                  # it will shows as the copyright owner in Footer
   email: 1060555245@qq.com             # change to your email address
