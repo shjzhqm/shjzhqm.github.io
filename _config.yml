@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Shjzhqm                          # the main title
 
 tagline: Wu Hu.  # it will display as the sub-title
 
@@ -22,7 +22,7 @@ url: 'https://shjzhqm.github.io'
 
 author: shjzhqm                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/preview.jpg   # support internet resources
 
 github:
   username: shjzhqm             # change to your github username
