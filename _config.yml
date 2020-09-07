@@ -81,7 +81,8 @@ toc: true
 
 paginate: 10
 
-markdown: mathjax
+markdown: kramdown
+mathjax: true
 
 highlighter: rouge
 
