@@ -82,7 +82,8 @@ toc: true
 paginate: 10
 
 markdown: kramdown
-mathjax: true
+kramdown:
+    math_engine: katex
 
 highlighter: rouge
 
